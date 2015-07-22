@@ -1,0 +1,1 @@
+#each chapter of a manga is in a separate directory containing manga pages in .jpg format.

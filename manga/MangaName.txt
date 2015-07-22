@@ -1,0 +1,2 @@
+#different mangas have different directory.
+#even Naruto and Naruto Gaiden: the seventh hokage have different directories.
