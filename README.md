@@ -7,4 +7,4 @@ python 2.7.10<br/>
 
 #  Running CLI
 	
-		scrapy crawl mangapanda manganame = 'Naruto'
+	$ scrapy crawl mangapanda -a manganame='One Piece'
